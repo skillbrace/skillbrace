@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aram @skillbrace
+- 👋 Hi, I’m Aram @skillbrace <br>
 Skillbrace is beginner-friendly and dedicated to:
 🧠 New ideas and skills
 🤖 Front End Developers
