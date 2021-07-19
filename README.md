@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Aram @skillbrace <br>
-Skillbrace is beginner-friendly and dedicated to:
-🧠 New ideas and skills
-🤖 Front End Developers
-👩‍🎨 Designers
-💰 Entrepreneurs
+Skillbrace is beginner-friendly and dedicated to: <br>
+🧠 New ideas and skills <br>
+🤖 Front End Developers <br>
+👩‍🎨 Designers <br>
+💰 Entrepreneurs <br>
 Reach out to me on Instagram: @skillbrace
 
 <!---
